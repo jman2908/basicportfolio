@@ -73,12 +73,8 @@ li {
     display: inline;
 }
 
-
-#bio-image {
-    position: relative;
-    float: left;
-    margin-left: 0%;
-    overflow: auto;
+#line {
+    border: 1px solid lightgray;
 }
 
 .full {
@@ -92,6 +88,15 @@ li {
     margin-right: 50px;
     border: 1px solid #dddddd;
 }
+
+#bio-image {
+    position: relative;
+    float: left;
+    margin-left: 0%;
+    overflow: auto;
+}
+
+
 
 h2 {
     color: #4aaaa5;
