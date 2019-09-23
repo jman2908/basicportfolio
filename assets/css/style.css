@@ -193,3 +193,14 @@ input[type=submit] {
     cursor: pointer;
     border-style: solid;
 }
+
+#section-port {
+    background-color: white;
+    width: 100%;
+    border: 1px solid #dddddd;
+    float: none;
+    overflow: auto;
+    padding: 15px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
