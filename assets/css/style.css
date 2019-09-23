@@ -79,6 +79,11 @@ li {
     border: 1px solid lightgray;
 }
 
+a {
+    text-decoration: none;
+    color: #666666
+}
+
 .container {
     background-color: white;
     width: 100%;
@@ -204,3 +209,27 @@ input[type=submit] {
     margin-left: 50px;
     margin-right: 100px;
 }
+
+div.gal {
+    margin: 5px;
+    border: 1px solid;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gal:hover {
+    border: 1px solid;
+  }
+  
+  div.gal img {
+    width: 100%;
+    height: 200px;
+  }
+  
+  div.description {
+    padding: 15px;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+
+  }
